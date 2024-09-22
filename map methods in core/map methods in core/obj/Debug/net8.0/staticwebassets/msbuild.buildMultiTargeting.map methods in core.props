@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\map methods in core.props" />
+</Project>

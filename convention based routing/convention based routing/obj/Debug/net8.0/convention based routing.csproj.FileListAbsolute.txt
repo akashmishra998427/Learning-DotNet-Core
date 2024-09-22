@@ -1,0 +1,30 @@
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\appsettings.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\convention based routing.staticwebassets.runtime.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\convention based routing.exe
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\convention based routing.deps.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\convention based routing.runtimeconfig.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\convention based routing.dll
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\bin\Debug\net8.0\convention based routing.pdb
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.AssemblyInfoInputs.cache
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.AssemblyInfo.cs
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.csproj.CoreCompileInputs.cache
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.RazorAssemblyInfo.cache
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.RazorAssemblyInfo.cs
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets\msbuild.convention based routing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets\msbuild.build.convention based routing.props
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.convention based routing.props
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.convention based routing.props
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\scopedcss\bundle\convention based routing.styles.css
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\scopedcss\projectbundle\convention based routing.bundle.scp.css
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.dll
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\refint\convention based routing.dll
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.pdb
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\convention based routing.genruntimeconfig.cache
+C:\Users\Akash mishra\Desktop\net all practcs\convention based routing\convention based routing\obj\Debug\net8.0\ref\convention based routing.dll

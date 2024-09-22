@@ -1,0 +1,25 @@
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\appsettings.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\map methods in core.exe
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\map methods in core.deps.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\map methods in core.runtimeconfig.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\map methods in core.dll
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\bin\Debug\net8.0\map methods in core.pdb
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.AssemblyInfoInputs.cache
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.AssemblyInfo.cs
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.csproj.CoreCompileInputs.cache
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets\msbuild.map methods in core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets\msbuild.build.map methods in core.props
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.map methods in core.props
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.map methods in core.props
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\scopedcss\bundle\map methods in core.styles.css
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.dll
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\refint\map methods in core.dll
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.pdb
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\map methods in core.genruntimeconfig.cache
+C:\Users\Akash mishra\Desktop\net all practcs\map methods in core\map methods in core\obj\Debug\net8.0\ref\map methods in core.dll
