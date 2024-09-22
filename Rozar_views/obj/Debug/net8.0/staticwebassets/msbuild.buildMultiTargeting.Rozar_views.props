@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rozar_views.props" />
+</Project>

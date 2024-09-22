@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1> this is a ViewResult</h1>
+
+@* // defining the rozar syntax *@
+@* single line syntax
+ *@
+<h2>the current data time @DateTime.Now</h2>
+
+<h3>year is @DateTime.Now.Year</h3>
+@* 
+multi line syntax *@
+
+@{
+    var name = "akas mishra";
+    var age = "23";
+    var village = "pawad";
+}
+
+<p>name : @name</p>
+<p>age :@age</p>
+<p>village:@village</p>
+
+@* if else *@
+
+@{
+    var myname = "Akash";
+    if (myname.Equals("Akash"))
+    {
+        <h3>my nmae is @myname</h3>
+    }
+
+    else
+    {
+        <h3>my name is adarsh</h3>
+    }
+
+
+   
+}
+
+@*  // loops *@
+@{
+    for (int i = 0; i < 10; i++)
+    {
+        <h2> this is my number @i  <br/></h2>
+    }
+}
+
+@{
+    string[] names = { "akash", "mishra", "vikas", "akhilesh" };
+    foreach (var item in names)
+    {
+        <h3> my name is @item</h3>
+    }
+}
